@@ -1,1 +1,2 @@
 # odin-recipes
+This is just a standard project created using some very basic HTML commands like links, images, lists, etc. Haven't yet learned how to properly present the website with sufficient style and all so forgive the site isn't too 'brutalistic'.
